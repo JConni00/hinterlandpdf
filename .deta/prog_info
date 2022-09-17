@@ -1,0 +1,1 @@
+{"id":"cd4a98ac-4607-46fe-a928-e8443a7df535","space":26648,"runtime":"python3.9","name":"pdf_extractor","path":"8nb5ln","project":"a0p7i4lj","account":"144798365827","region":"eu-central-1","deps":["pdfminer==20191125","requests==2.23.0","nltk==3.7","PyPDF2==2.10.8","flask==2.2.2"],"envs":null,"public":true,"log_level":"off","cron":""}
